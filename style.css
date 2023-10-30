@@ -1,0 +1,56 @@
+.header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin: 15%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    border-style: double;
+    padding: 5%;
+}
+.headtitle {
+    background-color: whitesmoke;
+    font-size: 50px;
+    margin: 15%;
+    padding: 5%;
+    border-style: groove;
+}
+.bodystuff {
+    initial-letter: 2;
+    text-align: justify;
+    padding-right: 5%;
+    padding-left: 5%;
+    margin: 5%;
+    background-color:antiquewhite;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 24px;
+}
+.tablewhole {
+    margin-left: auto;
+    margin-right: auto;
+}
+.imgstuff2 {
+    margin-left: 20%;
+    margin-right: 30%;
+    padding: auto;
+}
+.columns {
+    border-style: solid;
+    background-color: azure;
+    padding: 10px;
+    border-style: solid;
+}
+.row-index {
+    border-style: solid;
+    background-color: azure;
+    padding-left: 10px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-style: solid;
+}
+.imgstuff {
+    width: 640px;
+    height: 360px;
+}
